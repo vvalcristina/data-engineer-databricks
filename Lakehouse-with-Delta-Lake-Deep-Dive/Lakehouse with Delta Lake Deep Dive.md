@@ -25,10 +25,13 @@ Moovio precisa de grandes melhorias em seu pipeline de dados atual. Neste labora
   * Use os padrões de design recomendados do Delta Lake para disponibilizar os dados às partes interessadas a jusante.
   * Documentar os dados no nível da tabela para promover a descoberta de dados e a comunicação entre equipes
 
-#### [Ingest and Transform](01_Ingest_and_Transform/*)
+### Estrutura de Diretórios
 
-* [Ingestão de dados](01_Ingest_and_Transform/00_ingest_raw.ipynb)): Ingestão dos dados.
-* [Review](01_Ingest_and_Transform/01_review_and_visualize.ipynb)):  As transações com as quais estamos trabalhando mostram dados de eventos dos usuários. 
-#### Delta Tables
+#### [Ingest and Transform](https://github.com/vvalcristina/data-engineer-databricks/tree/main/Lakehouse-with-Delta-Lake-Deep-Dive/01_Ingest_and_Transform)
 
-*  [Criando uma tabela parquet](02_Delta%20Tables/03_creating_the_delta_table.ipynb)):Criamos uma tabela parquet para praticar.
+* [Ingestão de dados](https://github.com/vvalcristina/data-engineer-databricks/blob/main/Lakehouse-with-Delta-Lake-Deep-Dive/01_Ingest_and_Transform/00_ingest_raw.ipynb): Ingestão dos dados.
+* [Review](https://github.com/vvalcristina/data-engineer-databricks/blob/main/Lakehouse-with-Delta-Lake-Deep-Dive/01_Ingest_and_Transform/01_review_and_visualize.ipynb):  As transações com as quais estamos trabalhando mostram dados de eventos dos usuários. 
+* [Criando uma tabela parquet](02_Delta%20Tables/03_creating_the_delta_table.ipynb)):Criamos uma tabela parquet para praticar.
+* 
+#### [Delta Tables]()
+
