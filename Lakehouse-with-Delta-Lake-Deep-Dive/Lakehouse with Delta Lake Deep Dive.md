@@ -33,8 +33,8 @@ Moovio precisa de grandes melhorias em seu pipeline de dados atual. Neste labora
 * [Review](https://github.com/vvalcristina/data-engineer-databricks/blob/main/Lakehouse-with-Delta-Lake-Deep-Dive/01_Ingest_and_Transform/01_review_and_visualize.ipynb):  As transações com as quais estamos trabalhando mostram dados de eventos dos usuários. 
 * [Criando uma tabela parquet](02_Delta%20Tables/03_creating_the_delta_table.ipynb)):Criamos uma tabela parquet para praticar.
 
-#### [Delta Tables]()
+#### [Delta Tables](https://github.com/vvalcristina/data-engineer-databricks/tree/main/Lakehouse-with-Delta-Lake-Deep-Dive/02_Delta_Tables)
 
-* [Criando uma tabela Delta]: Criando uma tabela Delta.
+* [Criando uma tabela Delta](https://github.com/vvalcristina/data-engineer-databricks/blob/main/Lakehouse-with-Delta-Lake-Deep-Dive/02_Delta_Tables/03_creating_the_delta_table.ipynb): Criando uma tabela Delta.
 * [Gravação em batch para tabelas Delta]:  Lembre-se de que, como Moovio, estamos usando Kafka para transmitir dados. Agora, praticaremos anexar um lote de dados às tabelas com as quais estamos trabalhando. 
 * 
