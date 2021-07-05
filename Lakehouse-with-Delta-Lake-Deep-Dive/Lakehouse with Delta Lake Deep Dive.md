@@ -24,3 +24,11 @@ Moovio precisa de grandes melhorias em seu pipeline de dados atual. Neste labora
   * Criar um pipeline de dados OLAP de ponta a ponta
   * Use os padrões de design recomendados do Delta Lake para disponibilizar os dados às partes interessadas a jusante.
   * Documentar os dados no nível da tabela para promover a descoberta de dados e a comunicação entre equipes
+
+#### [Ingest and Transform](01_Ingest_and_Transform/*)
+
+* [Ingestão de dados](01_Ingest_and_Transform/00_ingest_raw.ipynb)): Ingestão dos dados.
+* [Review](01_Ingest_and_Transform/01_review_and_visualize.ipynb)):  As transações com as quais estamos trabalhando mostram dados de eventos dos usuários. 
+#### Delta Tables
+
+*  [Criando uma tabela parquet](02_Delta%20Tables/03_creating_the_delta_table.ipynb)):Criamos uma tabela parquet para praticar.
