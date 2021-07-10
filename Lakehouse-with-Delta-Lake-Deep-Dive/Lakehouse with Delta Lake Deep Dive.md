@@ -37,4 +37,7 @@ Moovio precisa de grandes melhorias em seu pipeline de dados atual. Neste labora
 
 * [Criando uma tabela Delta](https://github.com/vvalcristina/data-engineer-databricks/blob/main/Lakehouse-with-Delta-Lake-Deep-Dive/02_Delta_Tables/03_creating_the_delta_table.ipynb): Criando uma tabela Delta.
 * [Gravação em batch para tabelas Delta]:  Lembre-se de que, como Moovio, estamos usando Kafka para transmitir dados. Agora, praticaremos anexar um lote de dados às tabelas com as quais estamos trabalhando. 
-* 
+* [Explorando SSOT]: Um SSOT é a única fonte de dados de uma organização. Nesta lição os conhecimentos a respeito dos dados serão apronfundados e garantirá que os dados estão completos.
+* [Upsert]: Vamos modificar uma tabela Delta existente mesclando um conjunto de atualizações e inserções.
+* [Aplicação de Schema]: Vamos trabalhar com a aplicação e evolução de um schema.
+* [Exclusão de registros de usuários]:  A Moovio é uma empresa internacional e, como tal, precisa cumprir as leis e regulamentos das regiões onde atua. De acordo com o Regulamento Geral de Proteção de Dados da União Europeia (GDPR) e o Ato de Privacidade do Consumidor da Califórnia (CCPA), um usuário do dispositivo rastreador de saúde tem o direito de solicitar que seus dados sejam eliminados do sistema. 
